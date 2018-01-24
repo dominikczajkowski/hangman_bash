@@ -1,0 +1,6 @@
+Opis działania skryptu:
+- skrypt czyta z plików easy.txt lub hard.txt umieszczonych w katalogu domowym
+aktualnie zalogowanego użytkownika
+- do uruchomienia nie są wymagane żadne parametry
+- wybór poziomu trudności następuje po uruchomieniu skryptu
+- słowa w plikach są umieszczone w osobnych liniach, w pliku hard słowa w wyrażeniach muszą być oddzielone znakiem "_"
